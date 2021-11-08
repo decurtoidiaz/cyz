@@ -1,15 +1,14 @@
-# cyz
+# CyZ
 
-Pràctica 1. Universitat Oberta de Catalunya.
+CyZ: MARS Space Exploration Dataset.
 
-CyZ: MARS Space Exploration Dataset. 
 Images from NASA missions of the celestial body.
 
-CyZ: Dataset d’exploració espacial de Mart. 
-Imatges de les missions de la NASA del cos celeste.
+![alt-text](https://github.com/decurtoidiaz/cyz/blob/main/perseverance_de_curto_and_de_zarza.gif)
 
-J. de Curtò i Díaz decurto@uoc.edu
-I. de Zarzà i Cubero dezarza@uoc.edu
+J. de Curtò i DíAz c@decurto.be
+
+I. de Zarzà i Cubero z@dezarza.be
 	
 --------------------------------------------------------
 Change Log

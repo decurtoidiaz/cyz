@@ -20,9 +20,17 @@
                 `--`                 
 README
 
-To run the examples, install dependencies and run one of the scripts:
-
+To run the examples, install dependencies:
+	
 	$ bash dependencies_scrapenasa_de_curto_and_de_zarza.sh
+
+In order to use selenium (https://www.selenium.dev/documentation/getting_started/installing_browser_drivers/) you need to have on path the webdriver of Firefox (geckodriver: https://github.com/mozilla/geckodriver/releases). Download it and add to path appropriately:
+
+	$ export PATH=$PATH:/path/to/geckodriver >> ~/.profile
+	$ source ~/.profile
+
+Then run one of the scripts:
+		
 	$ python3 scrapenasa_04_de_curto_and_de_zarza.py
 
 Key: scrapenasa_0-4_de_curto_and_de_zarza.py

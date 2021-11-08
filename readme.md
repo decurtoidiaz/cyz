@@ -1,6 +1,6 @@
 # CyZ
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5652272.svg)](https://doi.org/10.5281/zenodo.5652272) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5655473.svg)](https://doi.org/10.5281/zenodo.5655473) 
 
 CyZ: MARS Space Exploration Dataset.
 
@@ -17,5 +17,7 @@ Change Log
 --------------------------------------------------------
 v0.9, released on 07/11/2021. Added code and scripts.
 
-v1.0, released on 08/11/2021. Added subset of PNG images and CSV files (Curiosity and Perseverance) as a dataset in Zenodo.
+v1.0, released on 08/11/2021. Added subset of PNG images and CSV files (Curiosity and Perseverance) as a dataset on Zenodo.
+
+v1.1, released on 08/11/2021. Added more images from Curiosity (CSV files and PNG images). Updated dataset on Zenodo.
 
